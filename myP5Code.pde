@@ -16,6 +16,13 @@ draw = function(){
 
   //🎯New Text Code Should Go Here 🡻
 
+ fill(255,105,180); 
+ textSize(35);
+ text("My Top 3 Favorite Disney Movies", 50,50);
+ text("*Princess & The Frog", 78,78);
+ text("*Cinderella",110,110);
+ text("*The Lion King",138,138);
+
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
